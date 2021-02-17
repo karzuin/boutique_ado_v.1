@@ -27,7 +27,7 @@ SECRET_KEY = '&bi=s0ns#kkwy@n01gp5@0o!a^6#)ddh#r%l7)r8zc()@pi0i#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['karzuin-boutique-ado', 'localhost']
+ALLOWED_HOSTS = ['karzuin-boutique-ado.herokuapp.com', 'localhost']
 
 
 # Application definition
